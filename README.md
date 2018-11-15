@@ -28,7 +28,7 @@ bash docker-install/install-docker-compose-on-ubuntu18.sh
 ```
 
 
-Start Service | Phalcon Application Template
+Start Service | Phalcon Application
 ---------------------------------------------------
 
 ```
